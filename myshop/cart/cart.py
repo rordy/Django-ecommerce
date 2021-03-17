@@ -2,7 +2,7 @@ from decimal import Decimal
 from django.conf import settings
 from shop.models import Product
 
-class Chart(object):
+class Cart(object):
     """
     Initialize the cart.
     """
